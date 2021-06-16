@@ -56,7 +56,7 @@
 
 <p> </p>
 
-<h4> Click em Arquivos para ver os artigos. </h4>
+<h4> Clique em Arquivos para ver os artigos. </h4>
 
 <button onclick="location.href='http://www.example.com'" type="button">
          Arquivos</button>
