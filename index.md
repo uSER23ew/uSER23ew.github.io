@@ -58,5 +58,5 @@
 
 <h4> Clique em Arquivos para ver os artigos. </h4>
 
-<button onclick="location.href='http://www.example.com'" type="button">
+<button onclick="location.href='Archives.html'" type="button">
          Arquivos</button>
