@@ -58,5 +58,9 @@
 
 <h4> Clique em Arquivos para ver os artigos. </h4>
 
-<button onclick="location.href='Archives.html'" type="button">
-         Arquivos</button>
+<button onclick="location.href='Archives.html'" type="button"> Arquivos</button>
+
+<button onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSdImYB3oW8VqFEJQTqXo_f6XA6lbh7QtV3VqticbOBBxlyr0g/viewform'" type="button">Enviar-Arquivo</button>
+
+         
+        
